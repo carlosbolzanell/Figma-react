@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;400;600;700&display=swap');
+
+:root{
+    --poppins: 'Poppins', sans-serif;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.browse{
+    text-align: center;
+    font-family: var(--poppins);
+}
+.browse h1{
+    color: #333333;
+    font-size: 32px;
+}
+.browse p{
+    color: #666666;
+    font-size: 20px;
+}
+.cards{
+    display: flex;
+    gap: 10px;
+}

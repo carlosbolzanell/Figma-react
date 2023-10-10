@@ -9,8 +9,12 @@
 }
 .card{
     background-color: #FFF3E3;
-    width: 780px;
+    width: 600px;
     height: 480px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-right: 58px;
 }
 .conteudo{
     flex-direction: column;
@@ -18,21 +22,21 @@
     padding: 70px 30px;
 }
 .titulo{
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 600;
     font-family: var(--poppins);
 }
 .conteudo h1{
-    font-size: 50px;
+    font-size: 52px;
     font-family: var(--poppins);
     width: 400px;
     color: #B88E2F;
 }
 .texto{
-    font-size: 23px;
+    font-size: 18px;
     font-family: var(--poppins);
     margin-bottom: 65px;
-    width: 700px;
+    width: 550px;
 }
 .button{
     padding: 25px 60px;

@@ -2,8 +2,10 @@
     background-image:url("./assets/fundo.png");
     background-size: cover;
     background-repeat: no-repeat;
+    width: auto;
     height: 718px;
 
     display: flex;
+    align-items: center;
     justify-content: end;
 }
