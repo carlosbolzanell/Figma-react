@@ -1,0 +1,9 @@
+.banner{
+    background-image:url("./assets/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 718px;
+
+    display: flex;
+    justify-content: end;
+}
