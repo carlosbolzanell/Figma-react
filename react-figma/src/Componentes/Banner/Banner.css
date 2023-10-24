@@ -3,7 +3,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     width: auto;
-    height: 718px;
+    height: 100vh;
+    background-position: center;
 
     display: flex;
     align-items: center;
