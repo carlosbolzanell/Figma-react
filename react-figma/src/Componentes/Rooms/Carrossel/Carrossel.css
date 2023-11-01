@@ -1,0 +1,31 @@
+.carrossel{
+    display: flex;
+    gap: 20px;
+    height: 100vh; 
+    margin-top: 100px;
+}
+.pImagem{
+    width: 550px;
+}
+.pImagem img{
+    width: 100%;
+}
+.sImagem img{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tImagem img{
+    width: 70px;
+}
+.prox-sImagem{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+}
+.pImagem-sImagem{
+    
+}
